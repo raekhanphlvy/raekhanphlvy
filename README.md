@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analyst, business analyst, etc.
 - 🌱 I’m currently learning Excel, SQL, Tableau, and R
 - 💞️ I’m looking to collaborate on data analyst projects.
-- 📫 How to reach me: reach me out in LinkedIn: [@raekhanphlv](https://www.linkedin.com/in/raekhanpahlavy/)
+- 📫 How to reach me: reach me out on LinkedIn: [@raekhanphlv](https://www.linkedin.com/in/raekhanpahlavy/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Econs student at his final year ✌️
 
